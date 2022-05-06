@@ -1,0 +1,24 @@
+{
+  "name": "todo-backend",
+  "version": "1.0.0",
+  "description": "the backend for the todo app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nothingpt/todo.git"
+  },
+  "keywords": [
+    "graphql",
+    "mongodb",
+    "node"
+  ],
+  "author": "Nuno Santos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nothingpt/todo/issues"
+  },
+  "homepage": "https://github.com/nothingpt/todo#readme"
+}
